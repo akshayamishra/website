@@ -1,5 +1,5 @@
 baseurl = "https://akshayamishra.github.io/"
-title = "Academic Theme"
+title = "Adavanced Data Analytics"
 copyright = "&copy; 2016 Akshaya Mishra"
 languageCode = "en-us"
 theme = "academic"
@@ -17,9 +17,9 @@ googleAnalytics = ""
   role = "Principal Research Scientist"
   organization = "Miovision Technologies Inc"
   avatar = "portrait.jpg"
-  email = "test@example.org"
-  address = "Stanford AI Lab, Stanford University, California, 90210, USA."
-  phone = "888 888 88 88"
+  email = "akshaya.mishra.kumar@gmail.com"
+  address = "148 Manitou Drive, Kitchener, ON, Canada"
+  phone = "519-513-2407 Ex-281"
 
   # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""
@@ -49,7 +49,7 @@ googleAnalytics = ""
   #   youtube, instagram, soundcloud
   #
   #   For email icon, use "fa" icon pack, "envelope" icon, and
-  #   "mailto:your@email.com" as the link.
+  #   "mailto:akshaya.mishra.kumar@gmail.com" as the link.
   #
   #   Full list: https://fortawesome.github.io/Font-Awesome/icons/
   #
@@ -62,22 +62,22 @@ googleAnalytics = ""
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:akshaya.mishra.kumar@gmail.com"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = ""
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.com/citations?hl=en&user=fxZ6SCcAAAAJ"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "https://github.com/akshayamishra"
 
 
 # Navigation Links
